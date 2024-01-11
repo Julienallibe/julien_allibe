@@ -29,8 +29,8 @@ const Banner = () => {
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
           Hey, moi c'est Julien! Je suis un programmeur autodidacte et un
           diplomé de marketing et développement commercial. Passioné du monde de
-          l'informatique et du marketing, j'ai décidé de rassembler les deux
-          pour je sais pas quoi mettre 😔
+          l&#39;informatique et du marketing, j&#39;ai décidé de rassembler les
+          deux pour je sais pas quoi mettre 😔
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
           Scroll en bas pour en savoir plus 😉
