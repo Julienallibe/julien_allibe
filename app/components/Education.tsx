@@ -20,10 +20,10 @@ const Education = () => {
           </p>
         </div>
         <p className="text-gray-300 pt-5">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
-          repellat quaerat quas perferendis, aspernatur amet quam iure? Ex
-          explicabo, voluptate perferendis optio, tenetur maiores corrupti
-          aperiam rem commodi dignissimos impedit!
+          En autodidacte j&#39;ai appris à coder et à maîtriser les bases du web
+          development. Vous pouvez avoir un aperçu de mes compétences ici,
+          devant vos yeux 👀 grâce à ce site. Vous pouvez retrouvez mes autres
+          projets ici 🚀 🪐
         </p>
         <div className="flex-row flex-wrap flex justify-center sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
@@ -54,12 +54,6 @@ const Education = () => {
             2015 - 2017
           </p>
         </div>
-        <p className="text-gray-300 pt-5">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
-          repellat quaerat quas perferendis, aspernatur amet quam iure? Ex
-          explicabo, voluptate perferendis optio, tenetur maiores corrupti
-          aperiam rem commodi dignissimos impedit!
-        </p>
         <div className="flex-row flex-wrap flex justify-center sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             Marketing
@@ -82,12 +76,6 @@ const Education = () => {
             2016 - 2017
           </p>
         </div>
-        <p className="text-gray-300 pt-5">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
-          repellat quaerat quas perferendis, aspernatur amet quam iure? Ex
-          explicabo, voluptate perferendis optio, tenetur maiores corrupti
-          aperiam rem commodi dignissimos impedit!
-        </p>
         <div className="flex-row flex-wrap flex justify-center sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             International Finance

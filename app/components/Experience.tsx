@@ -23,15 +23,14 @@ const Experience = () => {
           </p>
         </div>
         <p className="text-gray-300 pt-5">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
-          repellat quaerat quas perferendis, aspernatur amet quam iure? Ex
-          explicabo, voluptate perferendis optio, tenetur maiores corrupti
-          aperiam rem commodi dignissimos impedit!
-          <br />
-          <br />
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam non
-          quo quia enim odio. Et nemo, explicabo ratione quam eligendi quos nisi
-          asperiores ea commodi. Praesentium voluptatibus ipsum error a?
+          Diplômé d&#39;une licence Bachelor Responsable Marketing & Développement
+          commercial j&#39;ai fait mes armes au sein d&#39;une entreprise de
+          maintenance industrielle spécialisé dans la papeterie. Sous la
+          responsabilité du Président j&#39;occupais la fonction d&#39;attaché de
+          direction et responsable SSE. Mon rôle était, entre autres, d&#39;établir
+          et de maintenir des relations solides et durables avec les clients, la
+          négociation commerciale des contrats, la coordination avec les
+          responsables de chantier.
         </p>
       </div>
     </section>

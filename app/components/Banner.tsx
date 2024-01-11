@@ -27,10 +27,10 @@ const Banner = () => {
           🚀
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Hey, moi c&#39;est Julien! Je suis un programmeur autodidacte et un
-          diplomé de marketing et développement commercial. Passioné du monde de
+          Hey, moi c&#39;est Julien! Je suis programmeur autodidacte, diplômé en
+          marketing et développement commercial. Passionné par le monde de
           l&#39;informatique et du marketing, j&#39;ai décidé de rassembler les
-          deux pour je sais pas quoi mettre 😔
+          deux pour vous offrir mes services 🙌
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
           Scroll en bas pour en savoir plus 😉

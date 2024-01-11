@@ -13,16 +13,16 @@ const About = () => {
           de moi!
         </p>
         <p className="text-gray-300 text-center ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum aperiam
-          natus ullam veritatis est voluptatum deleniti harum repudiandae sint
-          consectetur atque quos, consequatur itaque nam consequuntur sed.
-          Voluptatum, dolor asperiores!
-          <br />
-          <br />
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea rem, vitae
-          commodi eius accusantium iure temporibus laboriosam esse cumque sequi
-          eligendi obcaecati. Et perferendis minima a inventore at beatae
-          voluptatum.
+          Je suis née à Manille et j&#39;ai passé mon enfance à Singapour dans
+          une école internationale. L&#39;anglais est ma langue natale, que je
+          parle couramment ainsi que le français. Depuis mon plus jeune âge je
+          me passionne pour l&#39;informatique, comme tout enfant de ma
+          génération j&#39;ai grandi avec le développement technologique et
+          l&#39;évolution d’internet. Après plusieurs années à travailler dans
+          une société de maintenance industrielle, je décide d&#39;ajouter le
+          codage à mes compétences afin d&#39;ouvrir de nouvelles portes. Je
+          réside dans la magnifique région des Alpes, près du massif de la
+          Chartreuse d&#39;où je propose mes services.
         </p>
       </div>
     </section>
