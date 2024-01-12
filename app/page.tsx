@@ -5,6 +5,7 @@ import Experience from "./components/Experience";
 import Footer from "./components/Footer";
 import Education from "./components/Education";
 
+
 const page = () => {
   return (
     <main className="h-full w-full  bg-[url('/LooperGroup2.png')] bg-no-repeat">
