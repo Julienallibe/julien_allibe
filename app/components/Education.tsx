@@ -19,7 +19,7 @@ const Education = () => {
             2023
           </p>
         </div>
-        <p className="text-gray-300 pt-5">
+        <p className="text-gray-300 pt-5 text-center">
           En autodidacte j&#39;ai appris à coder et à maîtriser les bases du web
           development. Vous pouvez avoir un aperçu de mes compétences ici,
           devant vos yeux 👀 grâce à ce site. Vous pouvez retrouvez mes autres

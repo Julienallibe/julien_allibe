@@ -22,7 +22,7 @@ const Experience = () => {
             2019 - 2022, TULLINS
           </p>
         </div>
-        <p className="text-gray-300 pt-5">
+        <p className="text-gray-300 pt-5 text-center">
           Diplômé d&#39;une licence Bachelor Responsable Marketing & Développement
           commercial j&#39;ai fait mes armes au sein d&#39;une entreprise de
           maintenance industrielle spécialisé dans la papeterie. Sous la
